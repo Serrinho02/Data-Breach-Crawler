@@ -32,7 +32,7 @@ Before you begin, ensure you have the following requirements installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/gabona-dev/crawler.git
+   git clone https://github.com/Serrinho02/Data-Breach-Crawler.git
     ```
 2. Run the server:
    ```bash
