@@ -1,6 +1,6 @@
 # Breach-CrowlerV3
-![Image description](https://github.com/gabona-dev/crawler/blob/main/img/homepage.png?raw=true)
-## TL;DR
+![Image description](https://github.com/Serrinho02/Data-Breach-Crawler/blob/main/img/homepage.png?raw=true)
+
 
 A simple tool to check if your accounts have been compromised in known data breaches using the local databases and the Have I Been Pwned API.
 
